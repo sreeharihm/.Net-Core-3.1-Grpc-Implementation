@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "Kh0Jyb5CQJsEvJ11n7I9svPqE1GDljY/33zsr3NYPSThAI5g1h4+BtUxFLq++ARoqUb+oyL73U/LUvLbPg391A==",
+  "success": true,
+  "projectFilePath": "C:\\pinnacle\\CreditRatingClient\\CreditRatingClient.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sreehari.hareendran\\.nuget\\packages\\google.protobuf\\3.12.3\\google.protobuf.3.12.3.nupkg.sha512",
+    "C:\\Users\\sreehari.hareendran\\.nuget\\packages\\grpc.core.api\\2.30.0-pre1\\grpc.core.api.2.30.0-pre1.nupkg.sha512",
+    "C:\\Users\\sreehari.hareendran\\.nuget\\packages\\grpc.net.client\\2.30.0\\grpc.net.client.2.30.0.nupkg.sha512",
+    "C:\\Users\\sreehari.hareendran\\.nuget\\packages\\grpc.net.common\\2.30.0\\grpc.net.common.2.30.0.nupkg.sha512",
+    "C:\\Users\\sreehari.hareendran\\.nuget\\packages\\grpc.tools\\2.30.0\\grpc.tools.2.30.0.nupkg.sha512",
+    "C:\\Users\\sreehari.hareendran\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\2.1.1\\microsoft.extensions.logging.abstractions.2.1.1.nupkg.sha512",
+    "C:\\Users\\sreehari.hareendran\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.5.1\\system.diagnostics.diagnosticsource.4.5.1.nupkg.sha512",
+    "C:\\Users\\sreehari.hareendran\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512"
+  ],
+  "logs": []
+}
